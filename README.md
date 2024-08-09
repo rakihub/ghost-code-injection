@@ -17,8 +17,6 @@
   + `<script src="https://cdn.jsdelivr.net/gh/rakihub/ghost-code-injection@main/remove-ghost-in-portal/built/remove-ghost-in-portal.min.js"></script>`
 
 
-
-
 ### Remove ghost in portal
 + Related blog: []
 + Jsdelivr link:
